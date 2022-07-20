@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\bin\Debug\net6.0\KeyStrokes.exe
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\bin\Debug\net6.0\KeyStrokes.deps.json
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\bin\Debug\net6.0\KeyStrokes.runtimeconfig.json
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\bin\Debug\net6.0\KeyStrokes.dll
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\bin\Debug\net6.0\KeyStrokes.pdb
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.AssemblyInfo.cs
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.dll
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\refint\KeyStrokes.dll
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.pdb
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\KeyStrokes.genruntimeconfig.cache
+C:\Users\user\Desktop\WorkingTest\KeyStrokes\KeyStrokes\obj\Debug\net6.0\ref\KeyStrokes.dll
